@@ -1,0 +1,17 @@
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+pom.xml.sonar
+release.properties
+dependency-reduced-pom.xml
+
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+.DS_Store
+Thumbs.db
+*.log
+# copy paste ignore!
